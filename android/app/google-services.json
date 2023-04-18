@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "282968578938",
+    "project_id": "devita-f42a4",
+    "storage_bucket": "devita-f42a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282968578938:android:173d9cf0d60ac8862e14c3",
+        "android_client_info": {
+          "package_name": "com.devita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282968578938-s7osn74g9hv8ictd7m2fmue885k3buc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2FuFj8jfeYndL27Kc2IQC2pOopjTrvy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282968578938-s7osn74g9hv8ictd7m2fmue885k3buc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282968578938-ilebke4qf1nogimaca97s1mp9gckru66.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.devita"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

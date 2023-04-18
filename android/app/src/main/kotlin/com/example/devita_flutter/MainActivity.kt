@@ -1,0 +1,6 @@
+package com.devita
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
